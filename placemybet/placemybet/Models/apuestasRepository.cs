@@ -114,7 +114,7 @@ namespace placemybet.Models
                 return null;
             }
         }
-        // metodo xael ejercicio 2
+        // metodo xa el ejercicio 2, creamos un filtro
         internal List<apuestas> retrieveMayor(int ID_mercado)
         {
 
