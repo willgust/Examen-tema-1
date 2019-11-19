@@ -1,0 +1,17 @@
+-CUENTAS: Tarjeta**(int 25), saldo(int 25),Banco(varchar 25),Correo_Usuario(varchar 50)
+	Correo_Usuario:{CAJ{---> USUARIOS
+
+-USUARIOS: Correo**(varchar 50), edad(int 3), nombre(varchar 25), apellido(varchar 25)
+	
+
+-APUESTAS: ID**(int 15), tipo(varchar 25), cuota(decimal 2), apostado(decimal 4),Correo_Usuario(varchar 50),ID_Mercado(int 15)
+	Correo_Usuario:{CAJ{---> USUARIOS
+	ID_mercados:{CAJ{---> MERCADO
+	
+
+-MERCADO: ID**(int 15),tipo(varchar 25),cuota over(decimal 2), cuota under(decimal 2),apostado over(decimal 4),apostado under(decimal 4),ID_eventos(int 15)
+	ID_eventos:{CAJ{---> EVENTOS
+
+-EVENTOS: ID**(int 15),fecha(date),hora(time),equipo local(varchar 25),equipo visitante(varchar 25),
+	
+

@@ -1,0 +1,280 @@
+C:\Users\jorge\source\repos\placemybet\placemybet\obj\Debug\placemybet.csprojAssemblyReference.cache
+C:\Users\jorge\source\repos\placemybet\placemybet\obj\Debug\placemybet.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\placemybet.dll.config
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\placemybet.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\placemybet.pdb
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\csc.exe
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\csc.exe.config
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\csc.rsp
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\csi.exe
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\csi.exe.config
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\csi.rsp
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\System.AppContext.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\System.Console.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\System.IO.Compression.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\System.Security.Claims.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\System.ValueTuple.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\vbc.exe
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\vbc.exe.config
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\vbc.rsp
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\VBCSCompiler.exe
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Antlr3.Runtime.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\BouncyCastle.Crypto.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\EntityFramework.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\EntityFramework.SqlServer.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Google.Protobuf.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.Owin.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.Owin.Security.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\MySql.Data.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Newtonsoft.Json.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Owin.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Renci.SshNet.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\System.Net.Http.Formatting.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\System.Web.Helpers.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\System.Web.Http.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\System.Web.Http.Owin.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\System.Web.Http.WebHost.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\System.Web.Mvc.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\System.Web.Optimization.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\System.Web.Razor.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\System.Web.WebPages.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\System.Web.WebPages.Razor.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\WebGrease.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Google.Protobuf.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\MySql.Data.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Renci.SshNet.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Newtonsoft.Json.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\System.Net.Http.Formatting.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\System.Web.Helpers.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\System.Web.Http.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\System.Web.Http.WebHost.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\System.Web.Mvc.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\System.Web.Optimization.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\System.Web.Razor.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\System.Web.WebPages.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\System.Web.WebPages.Razor.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Antlr3.Runtime.pdb
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\EntityFramework.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\EntityFramework.SqlServer.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.Owin.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.Owin.Security.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\System.Web.Http.Owin.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\es\System.Web.Http.resources.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\es\System.Web.Razor.resources.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\es\EntityFramework.resources.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\bin\es\System.Web.Http.Owin.resources.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\obj\Debug\placemybet.csproj.CopyComplete
+C:\Users\jorge\source\repos\placemybet\placemybet\obj\Debug\placemybet.dll
+C:\Users\jorge\source\repos\placemybet\placemybet\obj\Debug\placemybet.pdb
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\placemybet.dll.config
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\placemybet.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\placemybet.pdb
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\csc.exe
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\csc.exe.config
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\csc.rsp
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\csi.exe
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\csi.exe.config
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\csi.rsp
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\System.AppContext.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\System.Console.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\System.IO.Compression.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\System.Security.Claims.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\System.ValueTuple.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\vbc.exe
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\vbc.exe.config
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\vbc.rsp
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\VBCSCompiler.exe
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Antlr3.Runtime.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\BouncyCastle.Crypto.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\EntityFramework.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\EntityFramework.SqlServer.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Google.Protobuf.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.Owin.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.Owin.Security.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\MySql.Data.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Newtonsoft.Json.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Owin.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Renci.SshNet.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\System.Net.Http.Formatting.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\System.Web.Helpers.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\System.Web.Http.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\System.Web.Http.Owin.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\System.Web.Http.WebHost.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\System.Web.Mvc.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\System.Web.Optimization.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\System.Web.Razor.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\System.Web.WebPages.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\System.Web.WebPages.Razor.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\WebGrease.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Google.Protobuf.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\MySql.Data.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Renci.SshNet.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Newtonsoft.Json.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\System.Net.Http.Formatting.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\System.Web.Helpers.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\System.Web.Http.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\System.Web.Http.WebHost.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\System.Web.Mvc.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\System.Web.Optimization.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\System.Web.Razor.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\System.Web.WebPages.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\System.Web.WebPages.Razor.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Antlr3.Runtime.pdb
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\EntityFramework.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\EntityFramework.SqlServer.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.Owin.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.Owin.Security.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\System.Web.Http.Owin.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\es\System.Web.Http.resources.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\es\System.Web.Razor.resources.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\es\EntityFramework.resources.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\bin\es\System.Web.Http.Owin.resources.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\obj\Debug\placemybet.csprojAssemblyReference.cache
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\obj\Debug\placemybet.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\obj\Debug\placemybet.csproj.CopyComplete
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\obj\Debug\placemybet.dll
+C:\Users\jorge\Documents\dam\2º\Aceeso a Datos\AE1 b\placemybet\placemybet\obj\Debug\placemybet.pdb
