@@ -114,9 +114,37 @@ namespace placemybet.Models
                 return null;
             }
         }
+        // metodo xael ejercicio 2
+        internal List<apuestas> retrieveMayor(int ID_mercado)
+        {
+
+            MySqlConnection con = Connect();
+            MySqlCommand command = con.CreateCommand();
+            command.CommandText = "select * from apuestas WHERE apuestas.ID_mercados = @ID_mercado and apuestas.apostado >100";
+            command.Parameters.AddWithValue("@ID_mercado", ID_mercado);
+
+            con.Open();
+            MySqlDataReader res = command.ExecuteReader();
+
+            apuestas d = null;
+            List<apuestas> apuesta = new List<apuestas>();
+            while (res.Read())
+            {
+                Debug.WriteLine("Recuperado: " + res.GetInt32(0) + " " + res.GetString(1) + " " + res.GetDecimal(2) + " " + res.GetDecimal(3) + " " + res.GetString(4) + " " + res.GetInt32(5) + " " + res.GetInt32(6));
+                d = new apuestas(res.GetInt32(0), res.GetString(1), res.GetDecimal(2), res.GetDecimal(3), res.GetString(4), res.GetInt32(5), res.GetInt32(6));
+                apuesta.Add(d);
+            }
+
+            con.Close();
+            return apuesta;
+        }
+
+
 
         /*internal List<ApuestasDTO> cuotas()
         {
+        "select * from apuestas WHERE apuestas.ID_mercados = @ID_mercado and apuestas.apostado >100"
+
             int dineroOver = 0;
             int dineroUnder = 0;
             int probabilidadOver = 0;

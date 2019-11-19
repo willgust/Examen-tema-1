@@ -19,22 +19,31 @@ namespace placemybet.Controllers
             return apuesta;
         }
 
-        // GET: api/Apuestas?correo=correo
-        public IEnumerable<ApuestaCorreo> Get(string correo) //un get q pasando un correo nos da evento, tipo de mercado (1.5, 2.5 o 3.5), tipo de apuesta (over/under), cuota y dinero apostado
+        //llamada al metodo de ejercicio 2
+        // GET: api/Apuestas?ID_mercado=ID_mercado
+        public IEnumerable<apuestas> Get(int ID_mercado) //un get q pasando un correo nos da evento, tipo de mercado (1.5, 2.5 o 3.5), tipo de apuesta (over/under), cuota y dinero apostado
         {
             var repo = new apuestasRepository();
             //List<apuestas> apuesta = repo.retrieve();
-            List<ApuestaCorreo> apuesta = repo.retrieveCorreo(correo);
+            List<apuestas> apuesta = repo.retrieveMayor(ID_mercado);
             return apuesta;
         }
+        //// GET: api/Apuestas?correo=correo
+        //public IEnumerable<ApuestaCorreo> Get(string correo) //un get q pasando un correo nos da evento, tipo de mercado (1.5, 2.5 o 3.5), tipo de apuesta (over/under), cuota y dinero apostado
+        //{
+        //    var repo = new apuestasRepository();
+        //    //List<apuestas> apuesta = repo.retrieve();
+        //    List<ApuestaCorreo> apuesta = repo.retrieveCorreo(correo);
+        //    return apuesta;
+        //}
 
         // GET: api/Apuestas/5
-        public apuestas Get(int id)
-        {
-            /*var repo = new apuestasRepository();
-            apuestas d = repo.retrieve();*/
-            return null;
-        }
+        //public apuestas Get(int id)
+        //{
+        //    /*var repo = new apuestasRepository();
+        //    apuestas d = repo.retrieve();*/
+        //    return null;
+        //}
 
         // POST: api/Apuestas
         [Authorize] //obligamos al usuario a estar autentificado xa realizar la apuesta

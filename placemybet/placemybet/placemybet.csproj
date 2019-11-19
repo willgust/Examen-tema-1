@@ -232,7 +232,9 @@
     <Compile Include="Controllers\ApuestasController.cs" />
     <Compile Include="Controllers\EventosController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\LeaguesControler.cs" />
     <Compile Include="Controllers\MercadosController.cs" />
+    <Compile Include="Controllers\PruebaController.cs" />
     <Compile Include="Controllers\usuarioController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">
@@ -245,6 +247,8 @@
     <Compile Include="Models\eventos.cs" />
     <Compile Include="Models\eventosRepository.cs" />
     <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="Models\Leagues.cs" />
+    <Compile Include="Models\leaguesRepository.cs" />
     <Compile Include="Models\mercados.cs" />
     <Compile Include="Models\mercadosRepository.cs" />
     <Compile Include="Models\usuario.cs" />
